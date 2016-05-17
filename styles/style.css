@@ -1,0 +1,9 @@
+﻿body {
+	background: black;
+}
+
+#under_construction_title {
+	font-family: Tahoma, Verdana, monospace;
+	color: yellow;
+	text-align: center;
+}
